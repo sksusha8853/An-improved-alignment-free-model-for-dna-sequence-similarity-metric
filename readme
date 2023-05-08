@@ -1,0 +1,4 @@
+Download CDS data from https://www.soybase.org/dlpages/
+and store it into ATGC folder
+
+Simply run the .ipynb file block wise or simply click on run button to run .py file.
